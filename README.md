@@ -3,7 +3,7 @@
 
 My name is Erik and I am pursuing a career in software development. I love working on and developing projects with Python. I enjoy learning about different backend frameworks such as Flask and Django. 
 
-## Skills: Python / SQL 
+## Skills: Python / SQL / Flask
 
 - 🔭 I’m currently working on a REST API using Flask.  
 - 🌱 I’m currently learning Django and Amazon Web Services (AWS). 
