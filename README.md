@@ -1,10 +1,9 @@
-### Hi there 👋, eTrejoLujano
-#### Backend Developer
+# eTrejoLujano
 ![Backend Developer](https://fedingo.com/wp-content/uploads/2021/09/Python-PostgreSQL-696x410.jpg)
 
 My name is Erik and I am pursuing a career in software development. I love working on and developing projects with Python. I enjoy learning about different backend frameworks such as Flask and Django. 
 
-Skills: Python / SQL 
+## Skills: Python / SQL 
 
 - 🔭 I’m currently working on a REST API using Flask.  
 - 🌱 I’m currently learning Django and Amazon Web Services (AWS). 
