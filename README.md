@@ -1,12 +1,13 @@
 # Erik Trejo Lujano
-![Backend Developer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fpern-stack&psig=AOvVaw2vDDT6bS8M5EQu0D8EWMPH&ust=1673133574129000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDp_MCKtPwCFQAAAAAdAAAAABAE)
+![56902700-c5bd-11ea-813f-ed8631377258](https://user-images.githubusercontent.com/85711028/211115800-7bcaea5c-4468-413e-bd20-5208d788677f.jpeg)
 
-My name is Erik and I am pursuing a career in software development. I love working on and developing projects with Python. I enjoy learning about different backend frameworks such as Flask and Django. 
+My name is Erik and I am pursuing a career in software development. I love working on new frameworks and applying them to current projects. I always aim to learn a new framework or language with each progressing project I develop!
 
-## Skills: Python / SQL 
+## Skills: Javascript, Python, React, Express, Sequelize, Redux, Redux Toolkit, Node.js, git, GitHub, RESTful API, PostgreSQL, CSS, HTML, Material-UI, React Beautiful Drag and Drop
 
-- 🔭 I’m currently working on a REST API using Flask.  
-- 🌱 I’m currently learning Flask, Django, and Amazon Web Services (AWS). 
+
+- 🔭 I’m currently working on a social media website using React and Django.  
+- 🌱 I’m currently learning Django and I am pursuing an AWS Cloud Practictioner Certfication. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eTrejoLujano)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/erik-trejo-lujano/)  
