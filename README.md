@@ -8,5 +8,5 @@ My name is Erik and I am pursuing a career in software development. I love worki
 Javascript, Python, React, Express, Sequelize, Redux, Redux Toolkit, Node.js, git, GitHub, RESTful API, PostgreSQL, CSS, HTML, Material-UI, React Beautiful Drag and Drop
 
 
-- 🔭 I’m currently working on a social media website using React and Django.  
+- 🔭 I’m currently working on a music player using React and Django.  
 - 🌱 I’m currently learning Django and I am pursuing an AWS Cloud Practictioner Certfication. 
