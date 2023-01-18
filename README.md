@@ -9,4 +9,4 @@ Javascript, Python, React, Express, Sequelize, Redux, Redux Toolkit, Node.js, gi
 
 
 - 🔭 I’m currently working on a making a social media site using React, Redux, and Django.  
-- 🌱 I’m currently learning Django and I am pursuing an AWS Cloud Practictioner Certfication. 
+- 🌱 I’m currently learning Django and I'm pursuing an AWS Cloud Practictioner Certfication. 
