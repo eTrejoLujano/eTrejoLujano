@@ -7,5 +7,6 @@ My name is Erik and I am pursuing a career in software development. I love worki
 # Skills: 
 ![Alt text](https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png)
 Javascript, Python, React, Express, Sequelize, Redux, Redux Toolkit, Node.js, git, GitHub, RESTful API, PostgreSQL, CSS, HTML, Material-UI, React Beautiful Drag and Drop
+
 ![eTrejoLujano's Stats](https://github-readme-stats.vercel.app/api?username=eTrejoLujano&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 ![eTrejoLujano's Streak](https://github-readme-streak-stats.herokuapp.com/?user=eTrejoLujano&theme=blueberry&hide_border=true)
