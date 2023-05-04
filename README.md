@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
-<h3 align="center">A passionate Software Developer from San Jose, CA</h3>
+<h3 align="center">A passionate Full Stack Developer from San Jose, CA</h3>
 
 - 🔭 I’m currently working on **an E-commerce website**
 
