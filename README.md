@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django and Tailwind**
 
-- 👨‍💻 All of my projects are available at [eriktrejolujano.netlify.app](eriktrejolujano.netlify.app)
+- 👨‍💻 My Portfolio is available at [eriktrejolujano.netlify.app](eriktrejolujano.netlify.app)
 
 - 📫 How to reach me **trejolujano.erik@gmail.com**
 
