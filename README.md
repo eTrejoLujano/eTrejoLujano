@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">A passionate Full Stack Developer from San Jose, CA</h3>
 
-- 🔭 I’m currently working on **a DoorDash clone website**
+- 🔭 I’m currently working on **a DoorDash clone (InstaDash) website**
 
 - 🌱 I’m currently learning **Django and Tailwind**
 
