@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **trejolujano.erik@gmail.com**
 
-- ⚡ Fun fact - **I love to cook, play guitar, and spend time with my son**
+- ⚡ Fun fact - **I love to cook, play guitar, and spend time with my kids**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
