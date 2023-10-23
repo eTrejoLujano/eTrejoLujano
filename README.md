@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a DoorDash clone (Dashed Eats) website**
 
-- 🌱 I’m currently learning **Django and Tailwind**
+- 🌱 I’m currently learning **Golang** and improving on my **SQL and Javascript** skills!
 
 - 👨‍💻 My Portfolio is available at [eriktrejolujano.netlify.app](eriktrejolujano.netlify.app) (Copy link into a new window)
 
