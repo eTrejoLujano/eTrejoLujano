@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang** and improving on my **SQL and Javascript** skills!
 
-- 👨‍💻 My Portfolio is available at [https://eriktrejolujano.com/](https://eriktrejolujano.com/) (Copy link into a new window)
+- 👨‍💻 My Portfolio is available at [https://eriktrejolujano.com/](https://eriktrejolujano.com/)
 
 - 📫 How to reach me **trejolujano.erik@gmail.com**
 
