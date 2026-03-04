@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
-<h3 align="center">A passionate Full Stack Developer from San Jose, CA</h3>
-
-- 🌱 I’m currently learning **Golang** and improving on my **SQL** skills!
 
 - 👨‍💻 My Portfolio is available at [https://eriktrejolujano.com/](https://eriktrejolujano.com/)
 
